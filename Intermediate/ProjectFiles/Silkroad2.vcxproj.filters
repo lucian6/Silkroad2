@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Silkroad2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{1609825E-343E-4DA7-A047-1802828ECEDA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Silkroad2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Silkroad2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{BBB94009-2534-47F5-AF0E-6635CE0F559C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Silkroad2">
+			<UniqueIdentifier>{F538599F-D60E-4BF5-AE28-48E5D41CDC59}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Silkroad2\Silkroad2.Build.cs">
+			<Filter>Source\Silkroad2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Silkroad2\Silkroad2.cpp">
+			<Filter>Source\Silkroad2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Silkroad2\Silkroad2.h">
+			<Filter>Source\Silkroad2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Silkroad2\Silkroad2Character.cpp">
+			<Filter>Source\Silkroad2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Silkroad2\Silkroad2Character.h">
+			<Filter>Source\Silkroad2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Silkroad2\Silkroad2GameMode.cpp">
+			<Filter>Source\Silkroad2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Silkroad2\Silkroad2GameMode.h">
+			<Filter>Source\Silkroad2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
